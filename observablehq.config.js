@@ -25,7 +25,7 @@ export default {
   // Some additional configuration options and their defaults:
   // theme: "default", // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
-  footer: '<p style="font-size:12px;opacity:0.7;">Charts and data by <a href="https://digmeoutliers.com" target="_top">Dig Me Out(liers &amp; Trends)</a> &middot; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>: reuse with credit, non-commercial</p>',
+  footer: '<p style="font-size:12px;opacity:0.7;">Charts and data by <a href="https://digmeoutliers.com" target="_top">Dig Me Out(liers &amp; Trends)</a> &middot; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>: reuse with credit, non-commercial</p><p style="font-size:12px;opacity:0.7;">An unofficial, independent fan project, not affiliated with, endorsed by, or supported by <a href="https://www.kexp.org/" target="_blank" rel="noopener">KEXP</a>. KEXP is listener-funded, commercial-free radio: <a href="https://www.kexp.org/donate/" target="_blank" rel="noopener">donate to KEXP</a>.</p>',
   sidebar: false, // single-chart site; the embed needs no sidebar or toggle
   // toc: true, // whether to show the table of contents
   pager: false, // no previous/next links
