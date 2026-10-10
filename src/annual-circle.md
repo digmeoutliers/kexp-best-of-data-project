@@ -952,7 +952,7 @@ time* they got this rank" — an artist's first-ever appearance would get
 credit for albums still years in their future. So this chart uses a
 different count: how many times this artist had appeared on an Annual
 list **up to and including this one**. For example, the wheel shows
-Sleater-Kinney in the 3&ndash;9 tier, with 6 albums across the full
+Sleater-Kinney in the purple 3&ndash;9 tier, with 6 albums across the full
 25-year span. But their 2005 album *The Woods* was only their second
 Annual-list appearance up to that point — this chart is what shows that
 distinction. Here, *The Woods* is captured in the teal box (second
